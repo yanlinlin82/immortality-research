@@ -10,11 +10,11 @@
 
 1. https://pubmed.ncbi.nlm.nih.gov/24524368/  
     **The unexpected outcomes of anti-aging, rejuvenation, and life extension studies: an origin of modern therapies**  
-    这篇有点像不完全的生物医学简史，提到的一些方向和治疗方法，是值得关注的。可以作为框架，去追溯相关技术的最新进展。
+    这篇有点像不完全的生物医学简史，提到的一些研究方法和治疗方法，是值得关注的。可以作为框架，去追溯相关技术的最新进展。
 
 2. https://pubmed.ncbi.nlm.nih.gov/31035374/  
     **Telomere Gene Therapy: Polarizing Therapeutic Goals for Treatment of Various Diseases**  
-    这篇综述，是你们经常提到的端粒相关的研究，且与治疗直接相关的内容。与其通过模拟细胞或生物学体系，来进行机制研究，不如关注下现实世界中的结果和研究进展，包括体外和体内（即临床研究）。
+    这篇综述，是群里经常提到的端粒相关的研究，且与治疗直接相关的内容。与其通过模拟细胞或生物学体系，来进行机制研究，不如关注下现实世界中的结果和研究进展，包括体外和体内（即临床研究）。
 
 3. https://pubmed.ncbi.nlm.nih.gov/29488325/  
     **Resilience to aging in the regeneration-capable flatworm Macrostomum lignano**  
